@@ -17,16 +17,16 @@ html[data-theme='dark'] {
   --ls-block-properties-background-color: var(--ls-primary-background-color);
   --ls-block-ref-link-text-color: var(--ls-link-text-color);
   --ls-search-background-color: var(--ls-secondary-background-color);
-  --ls-border-color: var(--ls-primary-text-color);
+  --ls-border-color: #44475a;
   --ls-secondary-border-color: var(--ls-primary-text-color);
   --ls-guideline-color: rgba(255, 255, 255, 0.3);
   --ls-menu-hover-color: var(--ls-secondary-background-color);
   --ls-primary-text-color: rgba(255, 255, 255, 0.87);
   --ls-secondary-text-color: rgba(255, 255, 255, 0.6);
   --ls-title-text-color: var(--ls-primary-text-color);
-  --ls-link-text-color: #b2ccdf;
+  --ls-link-text-color: #96C0A1;
   --ls-link-text-hover-color: #fff;
-  --ls-link-ref-text-color: var(--ls-link-text-color);
+  --ls-link-ref-text-color: #EEDFB5;
   --ls-link-ref-text-hover-color: var(--ls-link-text-hover-color);
   --ls-tag-text-color: var(--ls-link-text-color);
   --ls-tag-text-hover-color: var(--ls-link-text-hover-color);
@@ -418,6 +418,3 @@ a.tag[data-ref]:hover {
 #right-sidebar pre.CodeMirror-line {
   background: transparent;
 }
-
-
-
