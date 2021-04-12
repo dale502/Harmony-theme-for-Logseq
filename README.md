@@ -1,3 +1,6 @@
+# Changes: Green/yellow
+![Dark Theme](https://github.com/dale502/Harmony-theme-for-Logseq/blob/main/dale502:Harmony-green:yellow.jpg?raw=true)
+
 # Harmony theme for [Logseq](https://github.com/logseq/logseq)
 Minimalistic custom dark and white themes keeping the classic approach of the standard Logseq theme.
 
@@ -9,9 +12,6 @@ Minimalistic custom dark and white themes keeping the classic approach of the st
 - increase image size on hover
 - custom code blocks style
 - and many more...
-
-![Dark Theme](harmony-demo-black.png)
-![Dark Theme](harmony-demo-white.png)
 
 ## Installation
 
