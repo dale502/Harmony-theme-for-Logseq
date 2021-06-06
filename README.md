@@ -1,3 +1,10 @@
+# New update 2021-06-06
+## black & white theme
+![]()
+
+## black & yellow theme
+![]()
+
 # Changes: Green/yellow
 ![Dark Theme](https://github.com/dale502/Harmony-theme-for-Logseq/blob/main/dale502:Harmony-green:yellow.jpg?raw=true)
 
