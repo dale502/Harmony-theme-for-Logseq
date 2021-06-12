@@ -5,7 +5,7 @@
 ## black & yellow theme
 ![](https://github.com/dale502/Harmony-theme-for-Logseq/blob/main/black&yellow%20preview.png?raw=true)
 
-## Changes: Green/yellow (outdated)
+## Changes: Green/yellow (stop updated)
 ![Dark Theme](https://github.com/dale502/Harmony-theme-for-Logseq/blob/main/dale502:Harmony-green:yellow.jpg?raw=true)
 
 ---
