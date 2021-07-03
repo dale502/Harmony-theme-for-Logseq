@@ -254,6 +254,11 @@ a.external-link:hover:after {
 
 /* === Tags ===  */
 a.tag[data-ref] {
+  font-size: 1rem;
+  line-height: 1rem;
+  padding: 0.2rem 0.1rem;
+}
+/*a.tag[data-ref] {
   color: var(--ls-primary-background-color);
   background: var(--ls-link-text-color);
   border-radius: 0.5rem 0rem;
@@ -270,7 +275,7 @@ a.tag[data-ref]:hover {
   opacity: 1;
   background-color: var(--ls-link-text-hover-color);
   border-radius: 0rem 0.5rem;
-}
+}*/
 
 /* === Inline code === */
 :not(pre) > code {
